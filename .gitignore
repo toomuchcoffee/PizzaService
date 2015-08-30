@@ -1,0 +1,17 @@
+.idea/
+*.iml
+/classes
+/dist
+/out
+/SDK/*SDK
+/target
+/*.bat
+*.class
+out
+build
+.DS_Store
+*~
+target/
+
+testdata/debugger
+testdata/projects
